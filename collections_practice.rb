@@ -55,9 +55,7 @@ def count_elements(arr)
 end
 
 def merge_data(h1, h2)
-  h2
-  #hash1 = h1[0].merge(h1[1])
-  #binding.pry
+  
 end
 
 #count_elements([{:name => "blake"}, {:name => "blake"}, {:name => "ashley"}])
