@@ -55,7 +55,7 @@ def count_elements(arr)
 end
 
 def merge_data(h1, h2)
-  
+  h1
 end
 
 #count_elements([{:name => "blake"}, {:name => "blake"}, {:name => "ashley"}])
