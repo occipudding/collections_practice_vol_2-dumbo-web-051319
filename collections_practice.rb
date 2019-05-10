@@ -59,4 +59,4 @@ def merge_data(h1, h2)
 end
 
 #count_elements([{:name => "blake"}, {:name => "blake"}, {:name => "ashley"}])
-merge_data()
+#merge_data()
